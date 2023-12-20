@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702987290620,1122,HTTP Request,200,OK,Users 1-2,text,true,,52618,232,10,10,https://chaconne.ru/,52,0,25
+1702987290620,53,HTTP Request-0,301,Moved Permanently,Users 1-2,text,true,,409,116,10,10,http://chaconne.ru/,52,0,25
+1702987290593,1149,HTTP Request,200,OK,Users 1-1,text,true,,52619,232,10,10,https://chaconne.ru/,72,0,43
+1702987290675,1067,HTTP Request-1,200,OK,Users 1-2,text,true,,52209,116,10,10,https://chaconne.ru/,1031,0,854
+1702987290593,77,HTTP Request-0,301,Moved Permanently,Users 1-1,text,true,,409,116,10,10,http://chaconne.ru/,72,0,43
+1702987290674,1068,HTTP Request-1,200,OK,Users 1-1,text,true,,52210,116,10,10,https://chaconne.ru/,1032,0,859
+1702987291120,638,HTTP Request,200,OK,Users 1-7,text,true,,52619,232,8,8,https://chaconne.ru/,48,0,24
+1702987291120,48,HTTP Request-0,301,Moved Permanently,Users 1-7,text,true,,409,116,8,8,http://chaconne.ru/,48,0,24
+1702987291168,590,HTTP Request-1,200,OK,Users 1-7,text,true,,52210,116,8,8,https://chaconne.ru/,544,0,366
+1702987291415,377,HTTP Request,200,OK,Users 1-10,text,true,,52619,232,7,7,https://chaconne.ru/,50,0,24
+1702987291415,50,HTTP Request-0,301,Moved Permanently,Users 1-10,text,true,,409,116,7,7,http://chaconne.ru/,50,0,24
+1702987291466,326,HTTP Request-1,200,OK,Users 1-10,text,true,,52210,116,7,7,https://chaconne.ru/,276,0,115
+1702987290714,1287,HTTP Request,200,OK,Users 1-3,text,true,,52619,232,6,6,https://chaconne.ru/,48,0,24
+1702987290714,48,HTTP Request-0,301,Moved Permanently,Users 1-3,text,true,,409,116,6,6,http://chaconne.ru/,48,0,24
+1702987290763,1238,HTTP Request-1,200,OK,Users 1-3,text,true,,52210,116,6,6,https://chaconne.ru/,1192,0,1005
+1702987290917,1095,HTTP Request,200,OK,Users 1-5,text,true,,52618,232,5,5,https://chaconne.ru/,48,0,24
+1702987290917,48,HTTP Request-0,301,Moved Permanently,Users 1-5,text,true,,409,116,5,5,http://chaconne.ru/,48,0,24
+1702987290965,1047,HTTP Request-1,200,OK,Users 1-5,text,true,,52209,116,5,5,https://chaconne.ru/,998,0,802
+1702987291317,701,HTTP Request,200,OK,Users 1-9,text,true,,52619,232,4,4,https://chaconne.ru/,47,0,24
+1702987291317,47,HTTP Request-0,301,Moved Permanently,Users 1-9,text,true,,409,116,4,4,http://chaconne.ru/,47,0,24
+1702987291365,653,HTTP Request-1,200,OK,Users 1-9,text,true,,52210,116,4,4,https://chaconne.ru/,604,0,404
+1702987290823,1196,HTTP Request,200,OK,Users 1-4,text,true,,52619,232,4,4,https://chaconne.ru/,55,0,26
+1702987290823,55,HTTP Request-0,301,Moved Permanently,Users 1-4,text,true,,409,116,4,4,http://chaconne.ru/,55,0,26
+1702987290879,1140,HTTP Request-1,200,OK,Users 1-4,text,true,,52210,116,4,4,https://chaconne.ru/,1112,0,903
+1702987291223,797,HTTP Request,200,OK,Users 1-8,text,true,,52618,232,3,3,https://chaconne.ru/,49,0,24
+1702987291223,49,HTTP Request-0,301,Moved Permanently,Users 1-8,text,true,,409,116,3,3,http://chaconne.ru/,49,0,24
+1702987291272,748,HTTP Request-1,200,OK,Users 1-8,text,true,,52209,116,3,3,https://chaconne.ru/,702,0,495
+1702987291011,1046,HTTP Request,200,OK,Users 1-6,text,true,,52619,232,1,1,https://chaconne.ru/,47,0,24
+1702987291011,48,HTTP Request-0,301,Moved Permanently,Users 1-6,text,true,,409,116,1,1,http://chaconne.ru/,47,0,24
+1702987291059,998,HTTP Request-1,200,OK,Users 1-6,text,true,,52210,116,1,1,https://chaconne.ru/,949,0,722
